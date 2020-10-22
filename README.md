@@ -1,4 +1,4 @@
-# Project made while learning node and express
+Project made while learning node and express
 
 ### Setting up project
 1. Inside of the projects directory use npm install to install all relevant dependencies
