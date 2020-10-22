@@ -1,0 +1,4 @@
+#to be ignored
+.DS_Store
+views\.DS_Store
+node_modules/
